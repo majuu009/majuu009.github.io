@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MonSite Web</title>
+    <title>Mi Sitio Web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -54,15 +54,11 @@
     <nav>
         <ul>
             <li><a href="#">Inicio</a></li>
-            <li><a href="#">Acerca de</a></li>
+            <li><a href="#">A</a></li>
             <li><a href="#">Servicios</a></li>
-            <li><a href="#">Contacto</a></li>
+            <li><a href="#">Contactos</a></li>
         </ul>
     </nav>
-    <main>
-        <section>
-            <h2>Acerca de Nosotros</h2>
-            <p>Somos una empresa dedicada a ofrecer soluciones innovadoras para tu negocio.</p>
         </section>
         <section>
 
@@ -70,7 +66,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Mi Sitio Web. Todos los derechos reservados.</p>
+        <p>&copy; 2025 Mi sitio web. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
