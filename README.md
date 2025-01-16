@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Site Web</title>
+    <title>MonSite Web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -13,7 +13,7 @@
             line-height: 1.6;
         }
         header {
-            background: #333;
+            background: #ff99cc; /* Rose clair */
             color: #fff;
             padding: 1rem 0;
             text-align: center;
@@ -23,7 +23,7 @@
             padding: 0;
             display: flex;
             justify-content: center;
-            background: #208;
+            background: #ff66b2; /* Rose plus foncé */
             margin: 0;
         }
         nav ul li {
@@ -39,7 +39,7 @@
         footer {
             text-align: center;
             padding: 1rem 0;
-            background: #333;
+            background: #ff99cc; /* Rose clair */
             color: #fff;
             position: absolute;
             width: 100%;
@@ -49,7 +49,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenu a Mon Site Web</h1>
+        <h1>Bienvenidu a Mon site Web</h1>
     </header>
     <nav>
         <ul>
@@ -59,8 +59,18 @@
             <li><a href="#">Contacto</a></li>
         </ul>
     </nav>
+    <main>
+        <section>
+            <h2>Acerca de Nosotros</h2>
+            <p>Somos una empresa dedicada a ofrecer soluciones innovadoras para tu negocio.</p>
+        </section>
+        <section>
+
+            </ul>
+        </section>
+    </main>
     <footer>
-        <p>&copy; 2025 Mon Site Web.</p>
+        <p>&copy; 2025 Mi Sitio Web. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
