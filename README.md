@@ -23,7 +23,7 @@
             padding: 0;
             display: flex;
             justify-content: center;
-            background: #114;
+            background: #208;
             margin: 0;
         }
         nav ul li {
