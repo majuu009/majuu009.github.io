@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Sitio Web</title>
+    <title>Mon Site Web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -23,7 +23,7 @@
             padding: 0;
             display: flex;
             justify-content: center;
-            background: #444;
+            background: #244;
             margin: 0;
         }
         nav ul li {
@@ -49,7 +49,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenidos a Mi Sitio Web</h1>
+        <h1>Bienvenu a Mon Site Web</h1>
     </header>
     <nav>
         <ul>
@@ -59,22 +59,9 @@
             <li><a href="#">Contacto</a></li>
         </ul>
     </nav>
-    <main>
-        <section>
-            <h2>Acerca de Nosotros</h2>
-            <p>Somos una empresa dedicada a ofrecer soluciones innovadoras para tu negocio.</p>
-        </section>
-        <section>
-            <h2>Servicios</h2>
-            <ul>
-                <li>Diseño Web</li>
-                <li>Marketing Digital</li>
-                <li>Consultoría Tecnológica</li>
-            </ul>
-        </section>
     </main>
     <footer>
-        <p>&copy; 2025 Mi Sitio Web. Todos los derechos reservados.</p>
+        <p>&copy; 2025 Mon Site Web.</p>
     </footer>
 </body>
 </html>
