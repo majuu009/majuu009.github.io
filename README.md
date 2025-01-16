@@ -23,7 +23,7 @@
             padding: 0;
             display: flex;
             justify-content: center;
-            background: #244;
+            background: #114;
             margin: 0;
         }
         nav ul li {
@@ -59,7 +59,6 @@
             <li><a href="#">Contacto</a></li>
         </ul>
     </nav>
-    </main>
     <footer>
         <p>&copy; 2025 Mon Site Web.</p>
     </footer>
