@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Sitio Web</title>
+    <title>Mon Site Web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,24 +49,23 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenidu a Mon site Web</h1>
+        <h1>Bienvenu a mon site Web</h1>
     </header>
     <nav>
         <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">A</a></li>
-            <li><a href="#">Servicios</a></li>
-            <li><a href="#">Contactos</a></li>
+            <li><a href="#">Histoire d'internet</a></li>
+            <li><a href="#">Protocole TCP</a></li>
+            <li><a href="#">Protocole IP</a></li>
+            <li><a href="#">DNS</a></li>
+            <li><a href="#">Routage</a></li>
+            <li><a href="#">Reseau pair à pair</a></li>
+            <li><a href="#">Conversion décimal a binaire</a></li>
         </ul>
     </nav>
         </section>
         <section>
-
-            </ul>
-        </section>
-    </main>
     <footer>
-        <p>&copy; 2025 Mi sitio web. Todos los derechos reservados.</p>
+        <p>&copy; 2025 Mon site web. Tous les droits reservées.</p>
     </footer>
 </body>
 </html>
