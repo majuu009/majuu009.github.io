@@ -62,10 +62,6 @@
             <li><a href="#">Conversion décimal a binaire</a></li>
         </ul>
     </nav>
-        </section>
-        <section>
     <footer>
         <p>&copy; 2025 Mon site web. Tous les droits reservées.</p>
     </footer>
-</body>
-</html>
