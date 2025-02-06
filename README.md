@@ -95,14 +95,4 @@
             </ul>
         </nav>
     </header>
-    
-    <section id="video">
-        <h2>Routage</h2>
-        <video controls>
-            <source src="https://drive.google.com/uc?export=download&id=1DdmZNm8fguboZCYmChIpsMk9To5RgS4e" type="video/mp4">
-            Votre navigateur ne supporte pas la lecture de vidéos.
-        </video>
-    </section>
-</body>
-</html>
 
