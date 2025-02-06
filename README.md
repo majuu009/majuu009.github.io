@@ -83,16 +83,5 @@
             max-width: 800px;
             display: block;
             margin: 0 auto;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Bienvenue sur notre site</h1>
-        <nav>
-            <ul>
-                <li><a href="#video">Voir la vidéo</a></li>
-            </ul>
-        </nav>
-    </header>
+        
 
